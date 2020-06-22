@@ -21,16 +21,19 @@
 # Registers:
 
 # File marks:
-'0  6  15  ~/README
-'1  5  15  ~/README
-'2  3  22  ~/README.md
-'3  4  52  ~/test.c
-'4  8  0  ~/test2.c
-'5  6  0  ~/test.c
-'6  2  10  ~/test.c
-'7  7  0  ~/runoob.txt
+'0  4  1  ~/hello.php
+'1  6  15  ~/README
+'2  5  15  ~/README
+'3  3  22  ~/README.md
+'4  4  52  ~/test.c
+'5  8  0  ~/test2.c
+'6  6  0  ~/test.c
+'7  2  10  ~/test.c
+'8  7  0  ~/runoob.txt
 
 # Jumplist (newest first):
+-'  4  1  ~/hello.php
+-'  1  0  ~/hello.php
 -'  6  15  ~/README
 -'  1  0  ~/README
 -'  5  15  ~/README
@@ -127,10 +130,14 @@
 -'  7  0  ~/runoob.txt
 -'  1  0  ~/runoob.txt
 -'  7  0  ~/runoob.txt
--'  4  52  ~/test.c
--'  1  0  ~/test.c
 
 # History of marks within files (newest to oldest):
+
+> ~/hello.php
+	"	4	1
+	^	4	2
+	.	4	1
+	+	4	1
 
 > ~/README
 	"	6	15
